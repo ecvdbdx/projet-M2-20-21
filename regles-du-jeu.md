@@ -1,5 +1,15 @@
 # Règles du jeu
 
+Ce document liste les contraintes/attentes du projet
+
+Si quelque chose n'est pas clair ou si ce document génère la moindre gène/difficulté, vous pouvez [créer une issue](https://github.com/ecvdbdx/projet-M2-20-21/issues/new) ou m'envoyer un email
+
+Vous pouvez proposer un changement ou une correction via une *pull request*
+
+
+
+## Les règles
+
 - Créer une application avec au moins :
   - une interface graphique pour interagir avec
   - du stockage de données
