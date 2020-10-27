@@ -7,7 +7,6 @@ Si quelque chose n'est pas clair ou si ce document génère la moindre gène/dif
 Vous pouvez proposer un changement ou une correction via une *pull request*
 
 
-
 ## Les règles
 
 - Créer une application avec au moins :
@@ -27,3 +26,8 @@ Lors de la présentation, vous devrez présenter et expliquer :
 - Les étapes que vous jugerez importantes de votre projet (recherche utilisateur, Wireframe, Positionnement, API... à vous de voir)
 - Les difficultés rencontrées et les solutions trouvées.
 - Comment avez-vous complété vos compétences manquantes si ça a été nécessaire.
+
+
+## Invitations
+
+- préférer moins de fonctionnalités bien plutôt que plus de fonctionnalités fragiles
