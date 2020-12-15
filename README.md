@@ -2,7 +2,7 @@
 
 Suivi des projets des étudiant.e.s de l'ECV Digitale Bordeaux de Master 2, 2020-2021
 
-Personne qui suit : David Bruant - david.bruant@protonmail.com
+Personne qui suit : David Bruant - davidbruant@protonmail.com
 
 ## Fonctionnement
 
