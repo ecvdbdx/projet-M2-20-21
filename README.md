@@ -45,3 +45,14 @@ Faire une pull request sur ce repo sur le modèle suivant :
 
 ```
 
+```md
+### Brandon Leininger
+
+Application mobile de suivi de macro-nutrition.
+Après avoir complété son profil, l'utilisateur aura accès à un tracking de ses macros, des partages insta de recettes, et pleins d'autres choses !
+
+<private pour l'instant>
+
+<WIP, lien public dispo ASAP>
+
+```
