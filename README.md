@@ -34,8 +34,8 @@ Projet d'outil numérique plutôt libre
 
 Faire une pull request sur ce repo sur le modèle suivant :
 
-```md
-### David Bruant
+
+### (Exemple) David Bruant
 
 <description brève ou "en refléxion">
 
@@ -43,5 +43,5 @@ Faire une pull request sur ce repo sur le modèle suivant :
 
 <lien vers un blog ou page d'accueil (si dispo)>
 
-```
+
 
