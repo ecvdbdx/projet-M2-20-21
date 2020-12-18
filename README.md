@@ -61,7 +61,7 @@ PWA sur une gestion de suivi de film avec des graphiques et plein de donnée
 lien repo front : https://github.com/PaulRiffard/movie-tracker
 lien repo back : " comming soon"
 
-### (Exemple) Thibault Andreis & Baptiste Sapa
+### Thibault Andreis & Baptiste Sapa
 
 Le projet a pour but de réunir des recettes de cuisines adapté à des robots de cuisine. L'objectif principal de cette plateforme est de rendre accessible à tout utilisateurs possédant des robots différents recettes adapté visuellement et techniquement à l'utilisateur.
 
