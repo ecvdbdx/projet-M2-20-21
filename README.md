@@ -45,13 +45,11 @@ Faire une pull request sur ce repo sur le modèle suivant :
 
 ```
 
-```md
 ### Pierre DARRIEUTORT Mathieu DAIX
 
 CARSTATS - THE NEW DRIVING EXPERIENCE
-Une application qui changera radicalement votre façon de conduire (Analyse, Assistance, GPS communautaire, ...)
+*Une application qui changera radicalement votre façon de conduire (Analyse, Assistance, GPS communautaire, ...)*
 
-https://github.com/pierredarrieutort/carstats
+https://github.com/pierredarrieutort/carstats<br/>
 https://github.com/mathieudaix/carstats-admin
-```
 
