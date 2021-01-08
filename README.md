@@ -69,6 +69,12 @@ PWA sur une gestion de suivi de film avec des graphiques et plein de donnée
 lien repo front : https://github.com/PaulRiffard/movie-tracker
 lien repo back : " comming soon"
 
+### Jessica Ferreira
+
+Launcher minimalist
+
+repo: https://gitlab.com/Distrikt64/focusly.git
+blog: WIP
 
 ### Thibault Andreis & Baptiste Sapa
 
@@ -94,4 +100,3 @@ CARSTATS - THE NEW DRIVING EXPERIENCE
 
 https://github.com/pierredarrieutort/carstats<br/>
 https://github.com/mathieudaix/carstats-admin
-
