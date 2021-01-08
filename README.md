@@ -69,6 +69,8 @@ PWA sur une gestion de suivi de film avec des graphiques et plein de donnée
 lien repo front : https://github.com/PaulRiffard/movie-tracker
 lien repo back : " comming soon"
 
+Lien actif: https://movie-tracker-paul.netlify.app/
+
 ### Jessica Ferreira
 
 Launcher minimalist
