@@ -19,7 +19,7 @@ Vous pouvez proposer un changement ou une correction via une *pull request*
 - Je suis disponible soit pour aider directement, soit pour trouver des personnes compétentes qui peuvent donner un coup de main
 
 
-Lors de la présentation, vous devrez présenter et expliquer :
+Lors de la présentation devant le jury (3-4 personnes), vous devrez présenter et expliquer :
 - Le rôle et la valeur ajoutée de votre appli
 - Votre réflexion sur la mise en œuvre liée à la gestion de projet (timing, compétences, coordination des différentes étapes ...)
 - Le choix de la (des) techno(s) utilisé(es). (Montrez le code)
