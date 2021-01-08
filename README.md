@@ -70,6 +70,15 @@ lien repo front : https://github.com/PaulRiffard/movie-tracker
 lien repo back : " comming soon"
 
 
+### Thibault Andreis & Baptiste Sapa
+
+Le projet a pour but de réunir des recettes de cuisines adapté à des robots de cuisine. L'objectif principal de cette plateforme est de rendre accessible à tout utilisateurs possédant des robots différents recettes adapté visuellement et techniquement à l'utilisateur.
+
+<lien vers le github SOON>
+
+<lien vers un blog ou page d'accueil SOON>
+
+
 ### Alexandre Dean
 
 Birthdays, un outils pour ne plus oublier de souhaiter un joyeux anniversaire à ses proches. L’application mobile permet de saisir la date d’anniversaire d’une personne pour recevoir une notification le jour de l’anniversaire. Technologie utilisé : React Native.
@@ -85,3 +94,4 @@ CARSTATS - THE NEW DRIVING EXPERIENCE
 
 https://github.com/pierredarrieutort/carstats<br/>
 https://github.com/mathieudaix/carstats-admin
+
