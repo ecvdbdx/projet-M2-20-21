@@ -67,6 +67,7 @@ Après avoir complété son profil, l'utilisateur aura accès à un tracking de 
 PWA sur une gestion de suivi de film avec des graphiques et plein de donnée
 
 lien repo front : https://github.com/PaulRiffard/movie-tracker
+
 lien repo back : " https://github.com/PaulRiffard/movie-tracker-back"
 
 Lien actif: https://movie-tracker-paul.netlify.app/
