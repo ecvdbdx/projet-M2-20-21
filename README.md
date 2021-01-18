@@ -92,11 +92,11 @@ Le projet a pour but de réunir des recettes de cuisines adapté à des robots d
 
 ### Alexandre Dean
 
-Birthdays, un outils pour ne plus oublier de souhaiter un joyeux anniversaire à ses proches. L’application mobile permet de saisir la date d’anniversaire d’une personne pour recevoir une notification le jour de l’anniversaire. Technologie utilisé : React Native.
+Une application web de quiz. Les utilisateurs pourront tester leurs connaissances sur différentes thématiques et comparer leurs scores.
 
-Repo : https://github.com/alexjamesdean1997/Birthdays
+Repo : *coming soon*
 
-Mon site : https://alexdeanwebdesign.com
+Site : *coming soon*
 
 ### Pierre DARRIEUTORT Mathieu DAIX
 
