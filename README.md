@@ -105,3 +105,9 @@ CARSTATS - THE NEW DRIVING EXPERIENCE
 
 https://github.com/pierredarrieutort/carstats<br/>
 https://github.com/mathieudaix/carstats-admin
+
+### Auguste COUECOU - Antoine CHASSAGNE
+
+Une application pour créer, partager, guider et analyser ses séances de sport.
+
+https://github.com/antoinechassagne/sport-app
