@@ -94,7 +94,7 @@ Le projet a pour but de réunir des recettes de cuisines adapté à des robots d
 
 Une application web de quiz. Les utilisateurs pourront tester leurs connaissances sur différentes thématiques et comparer leurs scores.
 
-Repo : *coming soon*
+Repo : https://github.com/alexjamesdean1997/quizzy-mongodb
 
 Site : *coming soon*
 
