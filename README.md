@@ -118,3 +118,9 @@ https://github.com/antoinechassagne/sport-app
 Une application de coivoiturage féminin
 
 https://github.com/ClemBesacier/besafe
+
+### Maël Querré
+
+App web pour écrire des partitions de musique en ligne.
+
+https://github.com/maelquerre/staffy
