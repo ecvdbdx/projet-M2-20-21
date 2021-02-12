@@ -60,7 +60,8 @@ Après avoir complété son profil, l'utilisateur aura accès à un tracking de 
 
 <private pour l'instant>
 
-<WIP, lien public dispo ASAP>
+Blog: https://brandon-leininger.gitbook.io/fitcore/ _(Toujours en WIP)_
+Builds .ipa / .apk : https://drive.google.com/drive/folders/1hcMHsp7c7L7OTWBydGgZ4WYXvpMaOsd3?usp=sharing
 
 ### Paul Riffard
 
