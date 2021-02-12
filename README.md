@@ -112,3 +112,9 @@ https://github.com/mathieudaix/carstats-admin
 Une application pour créer, partager, guider et analyser ses séances de sport.
 
 https://github.com/antoinechassagne/sport-app
+
+### Clémentine BESACIER
+
+Une application de coivoiturage féminin
+
+https://github.com/ClemBesacier/besafe
