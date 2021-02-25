@@ -19,7 +19,7 @@ Projet d'outil numérique plutôt libre
 - ~~27 octobre, 13h-17h~~
 - ~~18 décembre, 16h-18h~~
 - ~~8 janvier, 9h-12h~~
-- 12 février, 9h-12h 
+- ~~12 février, 9h-12h ~~
 - 26 février, 9h-18h
 - 26 mars, 16h-18h
 - 9 avril, 9h-16h
