@@ -123,3 +123,9 @@ https://github.com/ClemBesacier/besafe
 App web pour écrire des partitions de musique en ligne.
 
 https://github.com/maelquerre/staffy
+
+### Robin Giraud
+
+Web app permettant de passer commande plus rapidement dans les etablissements partenaires (cafés, bars, restaurants...), sans devoir attendre un serveur.
+
+<Lien vers les repos guthub soon>
