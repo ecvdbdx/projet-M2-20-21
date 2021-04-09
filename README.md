@@ -74,18 +74,12 @@ Lien front actif: https://movie-tracker-paul.netlify.app/
 
 Lien back Actif: https://movie-tracker-back.herokuapp.com/
 
-### Jessica Ferreira
 
-Launcher minimalist
+### Thibault Andreis & Baptiste Sapa & Jessica FERREIRA
 
-repo: https://gitlab.com/Distrikt64/focusly.git
-blog: WIP
+C'est une application mobile qui regroupe des jeux de société à faire seul ou à plusieurs sans avoir à télécharger plusieurs applications
 
-### Thibault Andreis & Baptiste Sapa
-
-Le projet a pour but de réunir des recettes de cuisines adapté à des robots de cuisine. L'objectif principal de cette plateforme est de rendre accessible à tout utilisateurs possédant des robots différents recettes adapté visuellement et techniquement à l'utilisateur.
-
-<lien vers le github SOON>
+Lien github: https://github.com/jferreira40/la-malle
 
 <lien vers un blog ou page d'accueil SOON>
 
