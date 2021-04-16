@@ -90,7 +90,7 @@ Une application web de quiz. Les utilisateurs pourront tester leurs connaissance
 
 Repo : https://github.com/alexjamesdean1997/quizzy-mongodb
 
-Site : *coming soon*
+Environnement de test : http://34.77.121.237
 
 ### Pierre DARRIEUTORT Mathieu DAIX
 
