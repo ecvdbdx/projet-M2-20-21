@@ -21,8 +21,8 @@ Projet d'outil numérique plutôt libre
 - ~~8 janvier, 9h-12h~~
 - ~~12 février, 9h-12h~~
 - ~~26 février, 9h-18h~~
-- 9 avril, 9h-16h
-- 16 avril, 13h-18h
+- ~~9 avril, 9h-16h~~
+- ~~16 avril, 13h-18h~~
 - 7 mai, 9h-18h
 - 14 mai, 13h-18h
 - 21 mai, 13h-18h
