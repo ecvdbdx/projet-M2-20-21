@@ -102,9 +102,10 @@ https://github.com/mathieudaix/carstats-admin
 
 ### Auguste COUECOU - Antoine CHASSAGNE
 
-Une application pour créer, partager, guider et analyser ses séances de sport.
+Une application pour trouver des joueurs et des parties de jeu de société autour de soi.
 
-https://github.com/antoinechassagne/sport-app
+Repository : https://github.com/antoinechassagne/aa-app
+URL : https://aa-app.vercel.app
 
 ### Clémentine BESACIER
 
