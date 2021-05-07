@@ -126,3 +126,30 @@ Technos: Vue + Laravel
 
 App en production (WIP): https://admiring-wiles-b80f22.netlify.app/ <br/>
 API en production (WIP): https://iorder-api.herokuapp.com/
+
+
+## FAQ produit
+
+**Est-ce qu'il vaut mieux que je fasse plus de fonctionnalité ou moins de fonctionnalités ?**
+
+Moins de fonctionnalité mieux travaillées sont préférables. Et soyez prêt.e.s à répondre si on vous demande comment vous coderiez telle fonctionnalité à partir de votre archi/code actuel
+
+
+**Est-ce que c'est ok d'utiliser une techno familière ?**
+
+Oui !\
+Il n'est pas attendu que vous preniez des risques sur toutes les technos que vous choisissez. 
+
+Prendre une techno avec laquelle vous êtes familier.ère.s vous permet de gérer là où vous prenez des risques et là où vous pouvez avancer en confiance. Et ce genre de choix est le genre de choix que vous aurez sûrement souvent à faire
+
+
+## FAQ présentation devant le jury
+
+**Est-ce que je dois présenter un business model ?**
+
+Non, ce n'est pas attendu\
+Je me dis que vous êtes en Master 2 dev et donc, là où on vous attend, c'est dans votres capacité à créer de manière autonome une application qui tient debout. Donc vous pouvez ne pas vous soucier de si l'appli est vraiment utile.
+
+
+
+
