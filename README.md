@@ -57,7 +57,7 @@ Faire une pull request sur ce repo sur le modèle suivant :
 Application mobile de suivi de macro-nutrition.
 Après avoir complété son profil, l'utilisateur aura accès à un tracking de ses macros, des partages insta de recettes, et pleins d'autres choses !
 
-Repo: https://github.com/Bran72/ihealthy _(privé)_
+Repo: https://github.com/Bran72/ihealthy _(privé)_  
 Blog: https://brandon-leininger.gitbook.io/fitcore/ _(Toujours en WIP)_   
 Builds .ipa / .apk : https://drive.google.com/drive/folders/1hcMHsp7c7L7OTWBydGgZ4WYXvpMaOsd3?usp=sharing
 
