@@ -103,8 +103,8 @@ APP : https://carstats.herokuapp.com
 
 Une application pour trouver des joueurs et des parties de jeu de société autour de soi.
 
-Repository : https://github.com/antoinechassagne/aa-app
-URL : https://aa-app.vercel.app
+Repository : https://github.com/antoinechassagne/ludis
+URL : https://ludis.games
 
 ### Clémentine BESACIER
 
