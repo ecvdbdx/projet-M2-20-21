@@ -85,11 +85,11 @@ Lien github: https://github.com/jferreira40/la-malle
 
 ### Alexandre Dean
 
-Une application web de quiz. Les utilisateurs pourront tester leurs connaissances sur différentes thématiques et comparer leurs scores.
+Une PWA de quiz. Les utilisateurs pourront tester leurs connaissances sur différentes thématiques et comparer leurs scores.
 
 Repo : https://github.com/alexjamesdean1997/quizzy-mongodb
 
-Environnement de test : http://34.77.121.237
+Prod : https://quizzyapp.app
 
 ### Pierre DARRIEUTORT Mathieu DAIX
 
