@@ -94,10 +94,11 @@ Environnement de test : http://34.77.121.237
 ### Pierre DARRIEUTORT Mathieu DAIX
 
 CARSTATS - THE NEW DRIVING EXPERIENCE
-*Une application qui changera radicalement votre façon de conduire (Analyse, Assistance, GPS communautaire, ...)*
+*GPS communautaire en temps réel*
 
-https://github.com/pierredarrieutort/carstats<br/>
-https://github.com/mathieudaix/carstats-admin
+FRONT : https://github.com/pierredarrieutort/carstats <br/>
+BACK : https://github.com/pierredarrieutort/carstats-backend <br/>
+APP : https://carstats.herokuapp.com
 
 ### Auguste COUECOU - Antoine CHASSAGNE
 
