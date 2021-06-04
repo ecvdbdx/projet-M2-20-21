@@ -80,7 +80,7 @@ C'est une application mobile qui regroupe des jeux de société à faire seul ou
 
 Lien github: https://github.com/jferreira40/la_malle
 
-<lien vers un blog ou page d'accueil SOON>
+Lien page d'accueil: https://la-malle.app/accueil
 
 
 ### Alexandre Dean
