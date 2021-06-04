@@ -123,8 +123,11 @@ https://github.com/maelquerre/staffy
 Web app permettant de passer commande plus rapidement dans les etablissements partenaires (cafés, bars, restaurants...), sans devoir attendre un serveur.
 Technos: Vue + Laravel
 
-App en production (WIP): https://admiring-wiles-b80f22.netlify.app/ <br/>
-API en production (WIP): https://iorder-api.herokuapp.com/
+Repo github PWA: https://github.com/robingiraud/IOrder
+Repo github API: https://github.com/robingiraud/IOrder-api
+
+App en production : https://admiring-wiles-b80f22.netlify.app/ <br/>
+API en production : https://iorder-api.herokuapp.com/
 
 
 ## FAQ produit
