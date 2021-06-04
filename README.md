@@ -93,8 +93,7 @@ Environnement de test : http://34.77.121.237
 
 ### Pierre DARRIEUTORT Mathieu DAIX
 
-CARSTATS - THE NEW DRIVING EXPERIENCE
-*GPS communautaire en temps réel*
+CARSTATS - THE NEW DRIVING EXPERIENCE - *GPS communautaire en temps réel*
 
 FRONT : https://github.com/pierredarrieutort/carstats <br/>
 BACK : https://github.com/pierredarrieutort/carstats-backend <br/>
