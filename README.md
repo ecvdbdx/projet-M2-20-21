@@ -78,7 +78,7 @@ Lien back Actif: https://movie-tracker-back.herokuapp.com/
 
 C'est une application mobile qui regroupe des jeux de société à faire seul ou à plusieurs sans avoir à télécharger plusieurs applications
 
-Lien github: https://github.com/jferreira40/la-malle
+Lien github: https://github.com/jferreira40/la_malle
 
 <lien vers un blog ou page d'accueil SOON>
 
